@@ -4,4 +4,4 @@
 
 - [Research Paper](Customer%20Segmentation%20Research.pdf)
 - [Experiment Notebook](experiment.ipynb)
-- [Presentation Slides](presentation.pdf)
+- [Presentation Slides](Customer_Segmentation_Presentation.pdf)
